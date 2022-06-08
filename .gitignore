@@ -1,3 +1,9 @@
+bin/
+vcpkg-bootstrap.log
+vcpkg-manifest-install.log
+vcpkg_installed/
+
+## Cmake stuff starts here
 ## C++
 # Prerequisites
 *.d
